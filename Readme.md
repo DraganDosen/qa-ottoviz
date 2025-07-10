@@ -1,5 +1,5 @@
 Testovi se pokrecu iz terminala sa komandom: dotnet test u Visual Studio Code programu.
-Reporti su u vidu tekstualnih fajlova za oba testa: report-events_number.txt, report-metriks.txt u folderu:
+Reporti su u vidu tekstualnih fajlova za oba testa: report-events-number.txt, report-metriks.txt u folderu:
  PlaywrightTests\bin\Debug\net8.0. Vama ce se tamo praviti txt fajlovi, ja sam kopirao odatle u folder reporti
 Ovo je Playwright sa C# Projekat
 U folderu rezultati su moja dva txt fajla sa reportima.
