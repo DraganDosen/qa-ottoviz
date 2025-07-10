@@ -1,0 +1,5 @@
+<Settings>
+    <EnvironmentVariables>
+        <PLAYWRIGHT_HTML_REPORT>1</PLAYWRIGHT_HTML_REPORT>
+    </EnvironmentVariables>
+</Settings>

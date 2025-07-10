@@ -1,0 +1,37 @@
+Pronađeno vrednosti u DOM-u: 70
+Vrednost: 4
+Vrednost: 2
+Vrednost: 2
+Vrednost: 2
+Vrednost: 2
+Vrednost: 6
+Vrednost: 3
+Vrednost: 2
+Vrednost: 2
+Vrednost: 10
+Vrednost: 3
+Vrednost: 2
+Vrednost: 3
+Vrednost: 3
+Vrednost: 2
+Vrednost: 2
+Vrednost: 2
+Vrednost: 2
+Vrednost: 5
+Vrednost: 4
+Vrednost: 2
+Vrednost: 4
+Vrednost: 9
+Vrednost: 5
+Vrednost: 2
+
+ Ukupna suma svih vrednosti: 85,00
+
+ Statistika učestalosti:
+Vrednost: 2  | Pojavljivanja: 13 puta
+Vrednost: 3  | Pojavljivanja: 4 puta
+Vrednost: 4  | Pojavljivanja: 3 puta
+Vrednost: 5  | Pojavljivanja: 2 puta
+Vrednost: 6  | Pojavljivanja: 1 puta
+Vrednost: 9  | Pojavljivanja: 1 puta
+Vrednost: 10  | Pojavljivanja: 1 puta

@@ -1,0 +1,27 @@
+    vrednost [6]: 4
+    vrednost [7]: 2
+    vrednost [9]: 2
+    vrednost [10]: 2
+    vrednost [11]: 2
+    vrednost [12]: 6
+    vrednost [13]: 3
+    vrednost [14]: 2
+    vrednost [15]: 2
+    vrednost [16]: 10
+    vrednost [19]: 3
+    vrednost [23]: 2
+    vrednost [25]: 3
+    vrednost [26]: 3
+    vrednost [30]: 2
+    vrednost [33]: 2
+    vrednost [34]: 2
+    vrednost [37]: 2
+    vrednost [38]: 5
+    vrednost [39]: 4
+    vrednost [48]: 2
+    vrednost [49]: 4
+    vrednost [51]: 9
+    vrednost [53]: 5
+    vrednost [63]: 2
+
+ Ukupna suma svih vrednosti: 85,00

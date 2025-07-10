@@ -1,0 +1,606 @@
+ Detektovano kolona: 14
+
+ Renderovanih redova: 38
+
+
+ Kolona [1]
+    Zbir: 3325,70  |  Broj: 38  |  Prosek: 87,52%
+        vrednost: 86,70%
+        vrednost: 77,60%
+        vrednost: 86,80%
+        vrednost: 91,20%
+        vrednost: 79,80%
+        vrednost: 91,50%
+        vrednost: 99,30%
+        vrednost: 95,30%
+        vrednost: 74,00%
+        vrednost: 90,50%
+        vrednost: 57,10%
+        vrednost: 97,00%
+        vrednost: 91,60%
+        vrednost: 96,70%
+        vrednost: 89,80%
+        vrednost: 77,10%
+        vrednost: 60,90%
+        vrednost: 77,70%
+        vrednost: 69,50%
+        vrednost: 93,00%
+        vrednost: 83,20%
+        vrednost: 79,30%
+        vrednost: 100,00%
+        vrednost: 99,70%
+        vrednost: 93,20%
+        vrednost: 100,00%
+        vrednost: 99,90%
+        vrednost: 98,30%
+        vrednost: 86,80%
+        vrednost: 86,00%
+        vrednost: 97,90%
+        vrednost: 60,30%
+        vrednost: 90,00%
+        vrednost: 92,50%
+        vrednost: 99,40%
+        vrednost: 96,60%
+        vrednost: 89,20%
+        vrednost: 90,30%
+    Footer TOTAL: 88,00%  |  Razlika: 0,48%
+
+
+ Kolona [2]
+    Zbir: 3129,60  |  Broj: 38  |  Prosek: 82,36%
+        vrednost: 69,20%
+        vrednost: 79,90%
+        vrednost: 85,60%
+        vrednost: 66,80%
+        vrednost: 85,70%
+        vrednost: 93,10%
+        vrednost: 99,40%
+        vrednost: 95,90%
+        vrednost: 54,00%
+        vrednost: 90,30%
+        vrednost: 59,60%
+        vrednost: 87,20%
+        vrednost: 87,60%
+        vrednost: 93,90%
+        vrednost: 87,20%
+        vrednost: 49,30%
+        vrednost: 78,90%
+        vrednost: 72,80%
+        vrednost: 61,10%
+        vrednost: 91,40%
+        vrednost: 80,80%
+        vrednost: 73,80%
+        vrednost: 100,00%
+        vrednost: 98,90%
+        vrednost: 99,60%
+        vrednost: 99,10%
+        vrednost: 100,00%
+        vrednost: 98,50%
+        vrednost: 89,80%
+        vrednost: 85,10%
+        vrednost: 94,60%
+        vrednost: 71,50%
+        vrednost: 84,00%
+        vrednost: 70,30%
+        vrednost: 35,00%
+        vrednost: 95,20%
+        vrednost: 86,20%
+        vrednost: 78,30%
+    Footer TOTAL: 82,30%  |  Razlika: 0,06%
+
+
+ Kolona [3]
+    Zbir: 3795,00  |  Broj: 38  |  Prosek: 99,87%
+        vrednost: 99,90%
+        vrednost: 99,90%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 99,90%
+        vrednost: 100,00%
+        vrednost: 99,90%
+        vrednost: 99,80%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 99,90%
+        vrednost: 99,80%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 99,70%
+        vrednost: 99,90%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 99,90%
+        vrednost: 99,90%
+        vrednost: 100,00%
+        vrednost: 99,70%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 99,80%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 99,70%
+        vrednost: 99,80%
+        vrednost: 99,20%
+        vrednost: 100,00%
+        vrednost: 99,50%
+        vrednost: 100,00%
+        vrednost: 99,70%
+        vrednost: 99,40%
+        vrednost: 99,90%
+        vrednost: 99,80%
+    Footer TOTAL: 99,90%  |  Razlika: 0,03%
+
+
+ Kolona [4]
+    Zbir: 3791,70  |  Broj: 38  |  Prosek: 99,78%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 99,80%
+        vrednost: 99,40%
+        vrednost: 99,20%
+        vrednost: 99,80%
+        vrednost: 100,00%
+        vrednost: 99,80%
+        vrednost: 99,50%
+        vrednost: 99,60%
+        vrednost: 99,70%
+        vrednost: 99,80%
+        vrednost: 99,80%
+        vrednost: 99,90%
+        vrednost: 99,90%
+        vrednost: 99,90%
+        vrednost: 99,80%
+        vrednost: 99,60%
+        vrednost: 99,90%
+        vrednost: 99,10%
+        vrednost: 99,50%
+        vrednost: 100,00%
+        vrednost: 99,50%
+        vrednost: 99,80%
+        vrednost: 99,70%
+        vrednost: 99,80%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 99,80%
+        vrednost: 100,00%
+        vrednost: 99,40%
+        vrednost: 100,00%
+        vrednost: 99,90%
+        vrednost: 99,90%
+        vrednost: 100,00%
+        vrednost: 99,90%
+    Footer TOTAL: 99,80%  |  Razlika: 0,02%
+
+
+ Kolona [5]
+    Zbir: 3798,70  |  Broj: 38  |  Prosek: 99,97%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 99,80%
+        vrednost: 99,90%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 99,90%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 99,50%
+        vrednost: 100,00%
+        vrednost: 99,90%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 99,80%
+        vrednost: 100,00%
+        vrednost: 99,90%
+    Footer TOTAL: 100,00%  |  Razlika: 0,03%
+
+
+ Kolona [6]
+    Zbir: 3798,00  |  Broj: 38  |  Prosek: 99,95%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 99,80%
+        vrednost: 99,70%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 99,80%
+        vrednost: 99,90%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 99,90%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 99,90%
+        vrednost: 100,00%
+        vrednost: 99,90%
+        vrednost: 100,00%
+        vrednost: 99,60%
+        vrednost: 99,90%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 99,90%
+        vrednost: 99,90%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 99,90%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 99,90%
+        vrednost: 100,00%
+        vrednost: 100,00%
+    Footer TOTAL: 100,00%  |  Razlika: 0,05%
+
+
+ Kolona [7]
+    Zbir: 3767,50  |  Broj: 38  |  Prosek: 99,14%
+        vrednost: 99,40%
+        vrednost: 99,20%
+        vrednost: 99,70%
+        vrednost: 99,30%
+        vrednost: 98,00%
+        vrednost: 99,90%
+        vrednost: 99,50%
+        vrednost: 98,70%
+        vrednost: 99,00%
+        vrednost: 100,00%
+        vrednost: 98,70%
+        vrednost: 99,20%
+        vrednost: 99,70%
+        vrednost: 99,80%
+        vrednost: 97,90%
+        vrednost: 98,60%
+        vrednost: 99,40%
+        vrednost: 99,60%
+        vrednost: 99,80%
+        vrednost: 99,50%
+        vrednost: 99,90%
+        vrednost: 98,90%
+        vrednost: 100,00%
+        vrednost: 99,90%
+        vrednost: 99,70%
+        vrednost: 99,70%
+        vrednost: 99,80%
+        vrednost: 100,00%
+        vrednost: 99,60%
+        vrednost: 98,30%
+        vrednost: 95,90%
+        vrednost: 99,40%
+        vrednost: 99,00%
+        vrednost: 99,90%
+        vrednost: 98,20%
+        vrednost: 97,00%
+        vrednost: 98,60%
+        vrednost: 98,80%
+    Footer TOTAL: 99,10%  |  Razlika: 0,04%
+
+
+ Kolona [8]
+    Zbir: 3744,30  |  Broj: 38  |  Prosek: 98,53%
+        vrednost: 99,90%
+        vrednost: 100,00%
+        vrednost: 98,30%
+        vrednost: 99,20%
+        vrednost: 98,70%
+        vrednost: 94,60%
+        vrednost: 95,20%
+        vrednost: 97,10%
+        vrednost: 99,80%
+        vrednost: 98,30%
+        vrednost: 96,90%
+        vrednost: 96,70%
+        vrednost: 97,50%
+        vrednost: 98,70%
+        vrednost: 99,30%
+        vrednost: 100,00%
+        vrednost: 99,20%
+        vrednost: 99,10%
+        vrednost: 98,70%
+        vrednost: 96,90%
+        vrednost: 97,60%
+        vrednost: 96,80%
+        vrednost: 97,30%
+        vrednost: 99,00%
+        vrednost: 97,90%
+        vrednost: 97,90%
+        vrednost: 97,90%
+        vrednost: 99,20%
+        vrednost: 99,90%
+        vrednost: 100,00%
+        vrednost: 99,20%
+        vrednost: 99,90%
+        vrednost: 99,40%
+        vrednost: 99,80%
+        vrednost: 99,80%
+        vrednost: 99,60%
+        vrednost: 99,90%
+        vrednost: 99,10%
+    Footer TOTAL: 98,50%  |  Razlika: 0,03%
+
+
+ Kolona [9]
+    Zbir: 3096,10  |  Broj: 38  |  Prosek: 81,48%
+        vrednost: 81,10%
+        vrednost: 66,70%
+        vrednost: 81,50%
+        vrednost: 85,10%
+        vrednost: 72,40%
+        vrednost: 89,90%
+        vrednost: 97,90%
+        vrednost: 89,10%
+        vrednost: 60,30%
+        vrednost: 87,70%
+        vrednost: 53,80%
+        vrednost: 84,80%
+        vrednost: 88,50%
+        vrednost: 92,90%
+        vrednost: 81,50%
+        vrednost: 60,80%
+        vrednost: 56,30%
+        vrednost: 71,20%
+        vrednost: 65,50%
+        vrednost: 90,50%
+        vrednost: 81,90%
+        vrednost: 75,80%
+        vrednost: 97,70%
+        vrednost: 99,00%
+        vrednost: 88,80%
+        vrednost: 96,50%
+        vrednost: 99,70%
+        vrednost: 95,80%
+        vrednost: 82,90%
+        vrednost: 77,50%
+        vrednost: 91,90%
+        vrednost: 51,30%
+        vrednost: 82,30%
+        vrednost: 81,90%
+        vrednost: 91,10%
+        vrednost: 85,90%
+        vrednost: 77,20%
+        vrednost: 81,40%
+    Footer TOTAL: 81,90%  |  Razlika: 0,42%
+
+
+ Kolona [10]
+    Zbir: 2927,10  |  Broj: 38  |  Prosek: 77,03%
+        vrednost: 65,80%
+        vrednost: 76,80%
+        vrednost: 80,80%
+        vrednost: 57,90%
+        vrednost: 81,40%
+        vrednost: 74,20%
+        vrednost: 86,10%
+        vrednost: 91,20%
+        vrednost: 52,40%
+        vrednost: 88,10%
+        vrednost: 54,10%
+        vrednost: 78,50%
+        vrednost: 79,30%
+        vrednost: 87,00%
+        vrednost: 85,10%
+        vrednost: 45,00%
+        vrednost: 75,30%
+        vrednost: 67,70%
+        vrednost: 53,40%
+        vrednost: 85,00%
+        vrednost: 74,60%
+        vrednost: 63,60%
+        vrednost: 90,90%
+        vrednost: 87,20%
+        vrednost: 88,80%
+        vrednost: 97,30%
+        vrednost: 96,70%
+        vrednost: 97,00%
+        vrednost: 87,60%
+        vrednost: 83,60%
+        vrednost: 92,40%
+        vrednost: 70,30%
+        vrednost: 81,50%
+        vrednost: 68,40%
+        vrednost: 32,40%
+        vrednost: 91,70%
+        vrednost: 83,60%
+        vrednost: 74,40%
+    Footer TOTAL: 76,90%  |  Razlika: 0,13%
+
+
+ Kolona [11]
+    Zbir: 3536,90  |  Broj: 38  |  Prosek: 93,08%
+        vrednost: 91,40%
+        vrednost: 85,70%
+        vrednost: 96,50%
+        vrednost: 90,40%
+        vrednost: 98,10%
+        vrednost: 95,90%
+        vrednost: 99,50%
+        vrednost: 95,00%
+        vrednost: 82,80%
+        vrednost: 98,90%
+        vrednost: 95,00%
+        vrednost: 97,20%
+        vrednost: 98,80%
+        vrednost: 96,90%
+        vrednost: 90,50%
+        vrednost: 75,20%
+        vrednost: 83,50%
+        vrednost: 84,70%
+        vrednost: 91,70%
+        vrednost: 98,20%
+        vrednost: 97,80%
+        vrednost: 93,60%
+        vrednost: 100,00%
+        vrednost: 99,70%
+        vrednost: 93,00%
+        vrednost: 100,00%
+        vrednost: 99,90%
+        vrednost: 98,90%
+        vrednost: 96,40%
+        vrednost: 86,90%
+        vrednost: 97,60%
+        vrednost: 85,80%
+        vrednost: 91,60%
+        vrednost: 88,30%
+        vrednost: 99,50%
+        vrednost: 84,40%
+        vrednost: 89,30%
+        vrednost: 88,30%
+    Footer TOTAL: 93,20%  |  Razlika: 0,12%
+
+
+ Kolona [12]
+    Zbir: 3393,50  |  Broj: 38  |  Prosek: 89,30%
+        vrednost: 83,40%
+        vrednost: 88,30%
+        vrednost: 93,20%
+        vrednost: 60,10%
+        vrednost: 86,70%
+        vrednost: 99,10%
+        vrednost: 99,80%
+        vrednost: 96,80%
+        vrednost: 67,00%
+        vrednost: 98,50%
+        vrednost: 94,80%
+        vrednost: 95,10%
+        vrednost: 97,50%
+        vrednost: 95,20%
+        vrednost: 89,10%
+        vrednost: 50,30%
+        vrednost: 88,70%
+        vrednost: 87,40%
+        vrednost: 87,90%
+        vrednost: 98,10%
+        vrednost: 94,20%
+        vrednost: 92,40%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 99,90%
+        vrednost: 99,80%
+        vrednost: 100,00%
+        vrednost: 98,90%
+        vrednost: 94,90%
+        vrednost: 88,80%
+        vrednost: 90,90%
+        vrednost: 88,90%
+        vrednost: 91,40%
+        vrednost: 81,10%
+        vrednost: 75,60%
+        vrednost: 86,40%
+        vrednost: 77,90%
+        vrednost: 75,40%
+    Footer TOTAL: 89,10%  |  Razlika: 0,20%
+
+
+ Kolona [13]
+    Zbir: 3800,00  |  Broj: 38  |  Prosek: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+    Footer TOTAL: 100,00%  |  Razlika: 0,00%
+
+
+ Kolona [14]
+    Zbir: 3800,00  |  Broj: 38  |  Prosek: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+        vrednost: 100,00%
+    Footer TOTAL: 100,00%  |  Razlika: 0,00%
+
