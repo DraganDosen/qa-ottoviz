@@ -3,7 +3,7 @@ Reporti su u vidu tekstualnih fajlova za oba testa: report-events-number.txt, re
  PlaywrightTests\bin\Debug\net8.0. Vama ce se tamo praviti txt fajlovi, ja sam kopirao odatle u folder reporti
 Ovo je Playwright sa C# Projekat
 U folderu rezultati su moja dva txt fajla sa reportima.
-Ovde pisem na nasem jeziku, nadam se da necete zameriti. Inace uvek se pise na engleskom.
+Ovde nije pisano na engleskom, nadam se da necete zameriti. Inace uvek se pise na engleskom.
 Klonirajte i otvorite folder sa Visual Studio Code programom
 
 Projekat koristi:
